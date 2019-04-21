@@ -44,6 +44,8 @@ FP32_FUNCS = [
 
     # Other math
     'pow',
+    'fft',
+    'ifft',
 
     # Reduction
     'cumprod',
